@@ -1,4 +1,4 @@
 # new project
 
-This project was created from local system
-created by sahil
+This project was created from local system.
+created by sahil.
